@@ -1,0 +1,11 @@
+{
+  "leader": "Vladimir_Putin_dual_layer_v1",
+  "beliefs": {
+    "domestic_support": 0.60,
+    "western_threat": 0.80,
+    "energy_leverage": 0.70,
+    "scapegoat_tendency": 0.70,
+    "impulsivity_index": 0.50,
+    "context_switch_flex": 0.65
+  }
+}

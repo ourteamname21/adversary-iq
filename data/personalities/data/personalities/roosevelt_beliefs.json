@@ -1,0 +1,11 @@
+{
+  "leader": "Teddy_Roosevelt_dual_layer_v1",
+  "beliefs": {
+    "domestic_support": 0.75,
+    "foreign_threat": 0.50,
+    "industrial_capacity": 0.65,
+    "scapegoat_tendency": 0.60,
+    "impulsivity_index": 0.40,
+    "context_switch_flex": 0.70
+  }
+}
